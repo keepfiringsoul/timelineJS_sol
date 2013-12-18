@@ -5,7 +5,9 @@
 
 
 
-
+body {
+overflow: hidden;
+}
 
 .IM_font{
 	font-family: 'Russo One', sans-serif;
@@ -74,8 +76,12 @@ color: #5c5c5c;
 	height:138px;
 	position: absolute;
 	top: 14px;
-	left: 300px;
+/*	left: 300px;*/
 	cursor: default;
+	transition: 1s;
+	-webkit-animation: anim 3s infinite;
+	-webkit-animation: c_mov 60s infinite;
+	-webkit-animation-timing-function:linear;
 	}
 
 #cloud2{
@@ -84,10 +90,47 @@ color: #5c5c5c;
 	height:112px;
 	position: absolute;
 	top: 100px;
-	left: 300px;
+/*	left: 300px;*/
 	cursor: default;
+	transition: 1s;
+	-webkit-animation: anim 4s infinite;
+	-webkit-animation: c_mov 50s infinite;
+	-webkit-animation-timing-function:linear;
 	}
+
+
 
 #timeline-embed{
 	opacity: 0.99;
+}
+
+@-webkit-keyframes anim {
+    0% {
+        -webkit-transform: scale(1,1);
+    }
+    50% {
+    	-webkit-transform: scale(1.1,1.1);
+
+    }
+    100% {
+    	-webkit-transform: scale(1,1);
+    }
+}
+
+@-webkit-keyframes c_mov {
+    0% {
+        left:-200px;
+    }
+    100% {
+    	left:1300px;
+    }
+}
+
+@-webkit-keyframes c_move {
+    0% {
+        left:-350px;
+    }
+    100% {
+    	left:1500px;
+    }
 }
