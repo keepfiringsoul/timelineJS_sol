@@ -1,0 +1,93 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+@import url(http://fonts.googleapis.com/css?family=Russo+One);
+@import url(http://fonts.googleapis.com/css?family=Crete+Round);
+
+
+
+
+
+.IM_font{
+	font-family: 'Russo One', sans-serif;
+	color: #800000;
+}
+
+.DS_font{
+	font-family: 'Crete Round', serif;
+	color: #044230;
+}
+
+.t_font{
+	font: bold 18px Nanum Gothic Coding;
+	margin-bottom: 10px;
+	color:#FFFFFF; 
+	background-color: #AD6E6E; 
+	float: left; 
+	clear: both;
+}
+
+.d_t_font{
+	font: bold 18px Nanum Gothic Coding;
+	margin-bottom: 10px;
+	color:#FFFFFF; 
+	background-color: #1e755c; 
+	float: left; 
+	clear: both;
+}
+
+.b_font{
+	font: 12px Gothic; 
+	line-height: 18px; 
+	clear: both;
+}
+
+.ref_font{
+	font: bold 15px Nanum Gothic Coding;
+	float:left;
+	clear:both;
+	margin: 8px;
+}
+
+.timenav-indicator {
+display: none;
+}
+
+.vco-slider {
+background: #d3e1dd;
+}
+
+.timenav-line {
+display: none;
+}
+
+.date {
+color: #5c5c5c;
+}
+
+.date:hover{
+	color: #000000;
+}
+
+#cloud1{
+	background-image: url('../media/cloud1.png');
+	width: 202px;
+	height:138px;
+	position: absolute;
+	top: 14px;
+	left: 300px;
+	cursor: default;
+	}
+
+#cloud2{
+	background-image: url('../media/cloud2.png');
+	width: 144px;
+	height:112px;
+	position: absolute;
+	top: 100px;
+	left: 300px;
+	cursor: default;
+	}
+
+#timeline-embed{
+	opacity: 0.99;
+}

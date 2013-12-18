@@ -1,0 +1,336 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Timeline of H.Soul",
+        "type":"default",
+		"text":"Interactive Media & Design Seminar",
+		"startDate":"2013,8,26",
+        "date": [
+            {
+                "startDate":"2013,8,28",
+				"endDate":"2013,8,28",
+                "headline":"<div class = \"IM_font\">Interactive Warming Up</div>",
+                "text":"<div class=\"t_font\">코드카데미 학습</div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-73ZXhYmrOf8/UrFfKzROa_I/AAAAAAAAFSM/CeeZVZlhrcI/w958-h512-no/%25EC%25BA%25A1%25EC%25B2%2598.JPG",
+                    "credit":"© 2013 Codecademy",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,11",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Project 1</div>",
+                "text":"<div class=\"t_font\">팀 아이디어 회의</div><div class=\"b_font\">레퍼런스 링크<br></div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://www.staggeringbeauty.com/\">---- 1</a></div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://www.theuselessweb.com/\" target=\"_blank\" class=\"ref_font\">---- 2</a></div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://www.feedthehead.net/\" target=\"_blank\" class=\"ref_font\">---- 3</a></div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://www.omfgdogs.com/\" target=\"_blank\" class=\"ref_font\">---- 4</a></div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://salmonofcapistrano.com/\" target=\"_blank\" class=\"ref_font\">---- 5</a></div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://www.newrafael.com/websites\" target=\"_blank\" class=\"ref_font\">---- 6</a></div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://www.haneke.net/\" target=\"_blank\" class=\"ref_font\">---- 7</a></div>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,23",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Project 1</div>",
+                "text":"<div class=\"t_font\">맥키맥키 테스트</div><div class=\"b_font\">맥키맥키 구입 후 테스트<br>전도체 실험</div>",
+                "asset":
+                {
+                    "media":"http://youtu.be/rbTr6axyWYg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,24",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Project 1</div>",
+                "text":"<div class=\"t_font\"></div><div class=\"b_font\">사용자 스토리 세분화</div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-sIc_mNRq5fo/Uq7bXxByQxI/AAAAAAAAFNg/cU99ZAh5eoM/s583/%25EC%25BA%25A1%25EC%25B2%2598.PNG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,26",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Project 1</div>",
+                "text":"<div class=\"t_font\"></div><div class=\"b_font\">페이지 콘티 작성</div>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-VJAoFnlOGuc/Uq7c_2Sj-UI/AAAAAAAAFN0/72YhdcqOf9A/s618/%25EC%25BA%25A1%25EC%25B2%25982.PNG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,2",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Project 1</div>",
+                "text":"<div class=\"t_font\">감튀 프로젝트 완성</div><div class=\"b_font\"><br>맥키맥키 - 좌우상하 화살표로 작동</div><div target=\"_blank\" class=\"ref_font\"><a href=\"https://dl.dropboxusercontent.com/u/24053127/html/1/1.html\" target=\"_blank\" class=\"ref_font\">위기탈출 감튀 프로젝트</a></div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-NSy5wRtIYno/Uq8soCR4cDI/AAAAAAAAFRE/-olodEuIQtE/s800/title.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,10",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Class</div>",
+                "text":"<div class=\"t_font\">마우스 이벤트</div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://codepen.io/keepfiringsoul/pen/caeCK\" target=\"_blank\" class=\"ref_font\">코드팬 마우스 이벤트 테스트</a></div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-jMbduYxesvo/UlT2En457VI/AAAAAAAACzY/6OHfBzjPglY/s1152/anjdi.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },  
+            {
+                "startDate":"2013,10,16",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Class</div>",
+                "text":"<div class=\"t_font\">캔버스와 사인 코사인</div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://codepen.io/keepfiringsoul/pen/auKkj\" target=\"_blank\" class=\"ref_font\">코드팬 캔버스와 함수 테스트</a></div>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-2fuHo2V1eZ0/Ul03bScCkWI/AAAAAAAADgo/AD0_KcdFI3w/s1152/%25EC%25BA%25A1%25EC%25B2%2598.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,23",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive LETS</div>",
+                "text":"<div class=\"t_font\">렛츠 준비</div><div class=\"b_font\">CSS를 이용한 간단한 웹페이지 만들기</div><div target=\"_blank\" class=\"ref_font\"><a href=\"http://codepen.io/keepfiringsoul/pen/uxHld\" target=\"_blank\" class=\"ref_font\">마우스 클릭시 이미지 슬라이드 자료</a></div>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-T-HLm_3mJ5Q/UmZFDo3wApI/AAAAAAAADpc/F0FWDhYGN2s/s1152/screenshot1.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,14",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive IM</div>",
+                "text":"<div class=\"t_font\">조형전 감상</div><div class=\"b_font\"></div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-V9cmcVrLqVQ/Uodb3Dmsn2I/AAAAAAAAEjg/hgRYclo2OjM/s912/CAM00999.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,26",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Project 2</div>",
+                "text":"<div class=\"t_font\">개인 프로젝트 구상</div><div class=\"b_font\"></div>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-dNvTmrWnvpc/UpRYIeE_lhI/AAAAAAAAE08/aIHeIi5tSiY/s800/%25ED%2594%2584%25EB%25A1%259C%25EC%25A0%259D%25ED%258A%25B8_%25ED%258F%25AC%25ED%258A%25B8%25ED%258F%25B4%25EB%25A6%25AC%25EC%2598%25A4%25EC%2582%25AC%25EC%259D%25B4%25ED%258A%25B8.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,27",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Project 2</div>",
+                "text":"<div class=\"t_font\">구조짜기</div><div class=\"b_font\"></div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-IvOj2wC_Ego/UpTeSLVXfsI/AAAAAAAAE2M/adPPPyp33S4/s1152/%25EC%25BA%25A1%25EC%25B2%25981.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,28",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Class</div>",
+                "text":"<div class=\"t_font\">CSS3 3D</div><div class=\"b_font\"></div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/--67PiwaOQmQ/UpToqftKhsI/AAAAAAAAE28/VAO26sje-QI/s1152/%25EC%25BA%25A1%25EC%25B2%25982.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,04",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Project 2</div>",
+                "text":"<div class=\"t_font\">페이지 개발</div><div class=\"b_font\">문제 상황 - 제자리에서 돌지 않는 이미지</div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-cn-VbQEMfK8/Up4gVVIEojI/AAAAAAAAFCo/W7oys5OP4ng/s1152/%25EC%25BA%25A1%25EC%25B2%2598.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,11",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Project 2</div>",
+                "text":"<div class=\"t_font\">페이지 완성</div><div class=\"ref_font\"><a href=\"http://keepfiringsoul.github.io/keepfiringsoul/\" target=\"_blank\" class=\"ref_font\">포트폴리오 페이지</a></div>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-8ghSf_JM5pk/UqdF-2VmZ_I/AAAAAAAAFLk/Hd7QFWHSTGA/s1152/%25EC%25BA%25A1%25EC%25B2%2598.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,09,03",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">아마도 예술공간 답사</div><div class=\"b_font\"></div>",
+                "asset":
+                {
+                    "media":"https://lh6.googleusercontent.com/-lnlNjx02fW0/Uq7BFiMdjUI/AAAAAAAAFM8/L98pGxlQmes/s1024/IMG_2086.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,09,10",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">1차 기획 회의</div><div class=\"b_font\">조별로 나눠 전시 컨셉 구상<br>투표 후 하나를 고르고 다른 컨셉의 장단점 반영</div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-p4J-ey7JG8U/Uq8bQhpmiaI/AAAAAAAAFOY/j5c9aC1m8T0/s1280/IMG_1913.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,09,17",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">최종 기획 발표</div><div class=\"b_font\">이대범 큐레이터 참관<br>기획팀의 프레젠테이션</div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-BkTvIqZ0jP8/Uq8cjO3UQpI/AAAAAAAAFOs/72RWn1-ltsQ/s1280/CAM00674%255B00-29-52%255D.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,09,24",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">2차 기획 회의</div><div class=\"b_font\">졸업 전시 타이틀 확정<br>제작한 모형에 축소 작업물 배치</div>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-35GxX7mvi9c/Uq8ek0YmYdI/AAAAAAAAFPg/QBu6g6r1-Kg/s1280/MVI_2018%255B00-37-34%255D.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,01",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">기획 수정 발표 및 교수 면담</div><div class=\"b_font\">전시 전체 스케줄 팀별 공지<br>개인 작업과 전시 방식에 대해 면담</div>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-hg7d3VaGgg0/Uq8fmYHb4KI/AAAAAAAAFP0/HeqvHymcolY/s1280/MVI_2053%255B00-43-03%255D.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,27",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">졸전 영상 작업</div><div class=\"b_font\"></div>",
+                "asset":
+                {
+                    "media":"http://youtu.be/QbceB70CCZg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,28",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">영상팀 작업</div><div class=\"b_font\">티저 영상 작업 보조<br>파티션에 틀 영상<br>메이킹 필름 작업</div>",
+                "asset":
+                {
+                    "media":"http://vimeo.com/80182698",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,29",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">아마도 예술공간 전시 계획</div><div class=\"b_font\">아마도 예술 공간에 현장에서 구조를 보며 목공 작업과 필요품 체크</div>",
+                "asset":
+                {
+                    "media":"http://youtu.be/CISpgQrqHJY",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,02",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">아마도 예술공간 전시 설치</div><div class=\"b_font\"></div>",
+                "asset":
+                {
+                    "media":"http://youtu.be/wL3qQ4GZ51E",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,04",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">졸업 기획전 오프닝</div><div class=\"b_font\"></div>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-NEXocd4Fb9U/Uq8m6FTxYII/AAAAAAAAFQw/QqMacg-e7Yw/s1280/MVI_9804%255B01-14-10%255D.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,20",
+                "endDate":"",
+                "headline":"<div class = \"DS_font\">Design Seminar</div>",
+                "text":"<div class=\"d_t_font\">졸업 기획전 철거</div><div class=\"b_font\"></div>",
+                "asset":
+                {
+                    "media":"http://youtu.be/cL6Yhj6dAJs",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,17",
+                "endDate":"",
+                "headline":"<div class = \"IM_font\">Interactive Class</div>",
+                "text":"<div class=\"t_font\"></div><div class=\"b_font\">+ : 졸업전에 다시 한번 코딩을 되새김질 해서 좋았다. 비록 어디에 쓰일지, 앞으로 쓰이기는 할지는 모르겠지만 어딘가 쓸모가 있겠지.<br>- : 조금 더 발전적일 수 있었을텐데 다른 과목과 개인적인 컨디션의 기복을 변명으로 의욕이 부족했다<br>! : 주변에 사람들, 커뮤니티가 중요하다는걸 깨달았다. 의욕적인 사람 옆에 있으면 같이 의욕이 생기니까!</div>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+
+            }
+        ]
+    }
+}

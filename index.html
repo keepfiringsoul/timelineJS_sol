@@ -1,16 +1,35 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
+    <title>Timeline JS Example</title>
     <meta charset="utf-8">
-    <title>Timeline of H.Soul</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
- </head>
-  <body>
-    <div id="Sol_back">
-    <div id="Sol_box">
-   <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkORhHrG3Ho3dEdkWkRmQnhXNGRJamE2dWhEclNib3c&font=Bevan-PotanoSans&maptype=TERRAIN&lang=en&height=650' width='100%' height='650' frameborder='0'></iframe>
-    </div>
-    <div id="window-resizer-tooltip" style="display: none;"><a href="#" title="Edit settings" style="background-image: url(chrome-extension://kkelicaakdanhinjdeammmilcgefonfh/images/icon_19.png);"></a><span class="tooltipTitle">Window size: </span><span class="tooltipWidth" id="winWidth">1280</span> x <span class="tooltipHeight" id="winHeight">770</span><br><span class="tooltipTitle">Viewport size: </span><span class="tooltipWidth" id="vpWidth">551</span> x <span class="tooltipHeight" id="vpHeight">684</span></div>
-  </div>
+    <meta name="description" content="TimelineJS example">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <!-- Style-->
+    <style>
+      html, body {
+       height:100%;
+       padding: 0px;
+       margin: 0px;
+      }
+    </style>
+  </head>
+  <body>      
+      <!-- BEGIN Timeline Embed -->
+      <div id="timeline-embed"></div>
+      <script type="text/javascript">
+        var timeline_config = {
+         width: "100%",
+         height: "100%",
+         source: 'story.jsonp'
+        }
+      </script>
+      <script type="text/javascript" src="./js/storyjs-embed.js"></script>
+      <link href="./css/style.css" rel="stylesheet" class="lazyload" charset="utf-8">
+      <!-- END Timeline Embed-->
+      <div id="cloud1"></div>
+      <div id="cloud2"></div>
   </body>
 </html>
